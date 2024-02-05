@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "templates",
+			"path": "../../../Downloads/Telegram Desktop/templates"
+		},
+		{
+			"name": "second_project",
+			"path": ".."
+		},
+		{
+			"name": "static",
+			"path": "../../../Downloads/Telegram Desktop/static"
+		}
+	],
+	"settings": {}
+}
